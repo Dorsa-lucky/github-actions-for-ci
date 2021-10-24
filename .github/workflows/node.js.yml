@@ -5,7 +5,7 @@ name: Node.js CI
 
   <<<<<<< CI-for-Node
         
-        node-version: [12.x, 14.x]
+        
   =======
 
   >>>>>>> Dorsa-lucky-patch-1
