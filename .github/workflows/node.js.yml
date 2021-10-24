@@ -3,6 +3,12 @@
 
 name: Node.js CI
 
+  <<<<<<< CI-for-Node
+          os: [ubuntu-latest, windows-2016]
+        node-version: [12.x, 14.x]
+  =======
+
+  >>>>>>> Dorsa-lucky-patch-1
 on:
   push:
     branches: [ main ]
